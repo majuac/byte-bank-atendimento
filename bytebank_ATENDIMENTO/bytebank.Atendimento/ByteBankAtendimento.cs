@@ -68,7 +68,7 @@ namespace bytebank_ATENDIMENTO.bytebank.Atendimento
                             EncerrarAplicacao();
                             break;
                         default:
-                            Console.WriteLine("Opcao não implementada.");
+                            Console.WriteLine("Opcão não implementada.");
                             break;
                     }
                 }
